@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 # Hi 👋, I'm Enes Buyuk
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=enesbuyuk&theme=dark" alt="enesbuyuk" /></a> </p>
+[![trophy](https://github-profile-trophy.vercel.app/?username=enesbuyuk&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 ### Contact me:
