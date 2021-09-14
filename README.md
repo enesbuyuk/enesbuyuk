@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **enesbuyuk/enesbuyuk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# Hi 👋, I'm Enes Buyuk
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=enesbuyuk" alt="enesbuyuk" /></a> </p>
+
+
+### Contact me:
+ thisismyinsta
+ 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=enesbuyuk&show_icons=true&theme=dark&locale=en" alt="enesbuyuk" /></p>
