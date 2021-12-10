@@ -35,6 +35,8 @@ Here are some ideas to get you started:
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=enesbuyuk&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=enesbuyuk&show_icons=true&theme=dark&locale=en" alt="enesbuyuk" /></p>
+
 
 ## Connect with me:
 
@@ -45,4 +47,3 @@ Here are some ideas to get you started:
 [<img src="https://img.shields.io/badge/instagram-%2312100E.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=black" />](https://instagram.com/enes.sql)
 
  
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=enesbuyuk&show_icons=true&theme=dark&locale=en" alt="enesbuyuk" /></p>
