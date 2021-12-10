@@ -1,21 +1,3 @@
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 <!--
 **enesbuyuk/enesbuyuk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -32,6 +14,8 @@ Here are some ideas to get you started:
 -->
 
 # Hi 👋, I'm [Enes Buyuk](https://enesbuyuk.com)
+I am studying Sakarya University.
+
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=enesbuyuk&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
