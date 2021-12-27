@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 # Hi 👋, I'm [Enes Buyuk](https://enesbuyuk.com)
 I'm studying at Sakarya University.
 
-
+ 
 [![trophy](https://github-profile-trophy.vercel.app/?username=enesbuyuk&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=enesbuyuk&show_icons=true&theme=dark&locale=en" alt="enesbuyuk" /></p>
