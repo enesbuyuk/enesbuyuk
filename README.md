@@ -22,8 +22,8 @@ I'm studying at Sakarya University.
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=enesbuyuk&show_icons=true&theme=dark&locale=en" alt="enesbuyuk" /></p>
 
 
-## Connect with me:
-
+## Contact with me:
+<a href="mailto:contact@enesbuyuk.com">contact@enesbuyuk.com</a></br>
 
 [<img src ="https://img.shields.io/badge/website-%23.svg?&style=for-the-badge&logo=www&logoColor=white%22&color=black">](https://enesbuyuk.com) 
 [<img src="https://img.shields.io/badge/linkedin-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/enesbuyuk/)
