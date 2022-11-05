@@ -19,8 +19,7 @@ I'm studying at Sakarya University.
  
 [![trophy](https://github-profile-trophy.vercel.app/?username=enesbuyuk&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=enesbuyuk&show_icons=true&theme=dark&locale=en" alt="enesbuyuk" /></p>
-
+<center><p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=enesbuyuk&show_icons=true&theme=dark&locale=en" alt="enesbuyuk" /></p></center>
 
 ## Contact with me:
 [<img src ="https://img.shields.io/badge/mail-%23.svg?&style=for-the-badge&logo=mail&logoColor=white%22&color=black">](mailto:contact@enesbuyuk.com) 
