@@ -16,9 +16,9 @@ Here are some ideas to get you started:
 # Hi 👋, I'm [Enes Buyuk](https://enesbuyuk.com)
 I'm studying at Sakarya University.
 <hr>
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=enesbuyuk&show_icons=true&theme=dark&locale=en" alt="enesbuyuk" /></p>
-<hr>
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=enesbuyuk&show_icons=true&locale=en&layout=compact" alt="enesbuyuk" /></p>
+<hr>
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=enesbuyuk&show_icons=true&theme=dark&locale=en" alt="enesbuyuk" /></p>
 
 ## Contact with me:
 [<img src ="https://img.shields.io/badge/mail-%23.svg?&style=for-the-badge&logo=mail&logoColor=white%22&color=black">](mailto:contact@enesbuyuk.com) 
