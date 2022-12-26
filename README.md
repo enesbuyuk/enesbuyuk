@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 # Hi 👋, I'm [Enes Buyuk](https://enesbuyuk.com)
 I'm studying at Sakarya University.
 <hr>
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=enesbuyuk&show_icons=true&locale=en&layout=compact" alt="enesbuyuk" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=enesbuyuk&theme=dark&show_icons=true&locale=en&layout=compact" alt="enesbuyuk" /></p>
 <hr>
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=enesbuyuk&show_icons=true&theme=dark&locale=en" alt="enesbuyuk" /></p>
 
