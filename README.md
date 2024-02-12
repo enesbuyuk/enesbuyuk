@@ -16,6 +16,11 @@ Here are some ideas to get you started:
 # Hi 👋, I'm [Enes Buyuk](https://enesbuyuk.com)
 I'm studying at Istanbul University.
 <hr>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/enesbuyuk/enesbuyuk/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/enesbuyuk/enesbuyuk/output/github-contribution-grid-snake.svg" />
+  <img alt="Enes Buyuks's Github" src="https://raw.githubusercontent.com/enesbuyuk/enesbuyuk/output/github-contribution-grid-snake.svg" />
+</picture>
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=enesbuyuk&theme=dark&show_icons=true&locale=en&layout=compact" alt="enesbuyuk" /></p>
 <hr>
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=enesbuyuk&show_icons=true&theme=dark&locale=en" alt="enesbuyuk" /></p>
