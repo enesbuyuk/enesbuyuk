@@ -6,7 +6,7 @@ Feel free to explore my repositories, where I share projects related to embedded
 
 
 ## Some Stats
-![Enes's Github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=enesbuyuk&theme=github-compact&hide_border=true&line=720000&area_color=ff0000&area=true)
+![Enes's Github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=enesbuyuk&theme=github-compact&hide_border=true&line=720000&area_color=ff0000&area=true&title_color=720000&custom_title=Enes Buyuk's Contribution Statistics Graph for the Last Month)
 
 <hr>
 <p align="center">
